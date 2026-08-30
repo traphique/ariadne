@@ -1,0 +1,2 @@
+# Ariadne uses only the Python standard library plus the Binary Ninja API.
+# No pip dependencies are required to load the plugin.
